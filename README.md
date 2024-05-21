@@ -1,4 +1,5 @@
 鲸鱼算法优化 CNN-LSTM-注意力机制组合神经网络的应用
+
 1.【cnn-WOA-LSTM-attention - 疫情预测.ipynb】鲸鱼算法优化的CNN-LSTM-Attention组合神经网络模型预测美国疫情数据。
 
 2.【cnn-WOA-LSTM-attention - 疫情预测2.ipynb】鲸鱼算法优化的CNN-LSTM-Attention组合神经网络模型预测中国疫情数据。
@@ -7,6 +8,7 @@
 
 
 融合预测特征的组合 LSTM 网络应用
+
 1.【数据预处理-特征融合-组合模型BiLSTM-风电功率预测.ipynb】特征融合-基于 BiLSTM 的组合模型。
 
 2.【数据预处理-特征融合-GRU-风电功率预测.ipynb】特征融合-GRU 模型。
